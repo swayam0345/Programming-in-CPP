@@ -1,3 +1,5 @@
+# Bit Manipulation
+
 Bit manipulation is a powerful technique that allows direct manipulation of individual bits of data. It is commonly used in competitive programming, embedded systems, cryptography, and performance-critical software.
 
 ---
